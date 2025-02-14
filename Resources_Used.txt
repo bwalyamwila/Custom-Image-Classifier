@@ -1,0 +1,4 @@
+https://docs.python.org/3/howto/argparse.html
+https://youtu.be/OxpBMNalsDM
+https://community.udacity.com/c/aws-winter-24-tech-help/building-your-image-classification-project-a
+https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
